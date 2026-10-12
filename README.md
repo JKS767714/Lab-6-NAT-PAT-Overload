@@ -188,4 +188,14 @@ traffic from reaching the external server.
 Configured a static default route pointing to Router1
 (203.0.113.2) and verified the routing table.
 
-![Default Route Troubleshooting](images/Lab-6-Default-Route.png)
+![Default Route Troubleshooting](images/Lab-6-Default-Route.png)  
+
+### NAT/PAT Configuration Verification
+
+Verified that Router0 uses G0/0 as the inside interface
+and G0/1 as the outside interface.
+
+PAT overload allows multiple private devices to share
+the outside IP address 203.0.113.1.
+
+![NAT Configuration](images/Lab-6-NAT-Configuration.png)
