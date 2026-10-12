@@ -172,3 +172,10 @@ Successfully configured and verified NAT overload across three internal devices,
 
 ### Network Topology
 ![Lab 6 Network Topology](images/Lab-6-Network-Topology.png)
+
+### NAT/PAT Translation Verification
+
+Verified that PC0, PC1, and PC2 successfully shared
+the same outside IP address (203.0.113.1) using PAT.
+
+![NAT Translations](images/Lab-6-NAT-Translations.png)
