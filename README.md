@@ -178,4 +178,14 @@ Successfully configured and verified NAT overload across three internal devices,
 Verified that PC0, PC1, and PC2 successfully shared
 the same outside IP address (203.0.113.1) using PAT.
 
-![NAT Translations](images/LAb-6-NAT-Translations.png)
+![NAT Translations](images/LAb-6-NAT-Translations.png)  
+
+### Default Route Troubleshooting and Verification
+
+Identified a missing default route on Router0 that prevented
+traffic from reaching the external server.
+
+Configured a static default route pointing to Router1
+(203.0.113.2) and verified the routing table.
+
+![Default Route Troubleshooting](images/Lab-6-Default-Route.png)
