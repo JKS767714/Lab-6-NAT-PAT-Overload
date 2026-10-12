@@ -198,4 +198,15 @@ and G0/1 as the outside interface.
 PAT overload allows multiple private devices to share
 the outside IP address 203.0.113.1.
 
-![NAT Configuration](images/Lab-6-NAT-Configurations.png)
+![NAT Configuration](images/Lab-6-NAT-Configurations.png)  
+
+### Connectivity Verification
+
+Successfully verified communication between the
+internal LAN and external server after configuring
+static routing and NAT/PAT.
+
+All three internal PCs successfully reached Server0
+at 198.51.100.10.
+
+![Ping Verification](images/Lab-6-Ping-Verification.png)
