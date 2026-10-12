@@ -168,3 +168,7 @@ Additional testing confirmed successful connectivity from PC1 and PC2 and verifi
 ## Lab Outcome
 
 Successfully configured and verified NAT overload across three internal devices, diagnosed a missing default route, restored external connectivity, and validated the resulting translations using Cisco IOS commands.
+## Lab Evidence
+
+### Network Topology
+![Lab 6 Network Topology](images/Lab-6-Network-Topology.png)
