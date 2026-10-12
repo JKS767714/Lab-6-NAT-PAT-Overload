@@ -198,4 +198,4 @@ and G0/1 as the outside interface.
 PAT overload allows multiple private devices to share
 the outside IP address 203.0.113.1.
 
-![NAT Configuration](images/Lab-6-NAT-Configuration.png)
+![NAT Configuration](images/Lab-6-NAT-Configurations.png)
